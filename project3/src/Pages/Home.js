@@ -1,5 +1,5 @@
 import React from 'react';
-import IncomeTax from '/Users/eshaadhawade/Desktop/Project3/project3/src/IncomeTax'; 
+import IncomeTax from '../IncomeTax';
 
 // home page initially displayed
 
@@ -12,7 +12,11 @@ const Home = () => {
         padding: 10,
     }
     return(
+      <div>
+        <center> 
       <IncomeTax />
+      </center>
+      </div>
     )
     
 };
