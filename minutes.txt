@@ -1,0 +1,144 @@
+SCRUM Meeting 1 for BudgIt
+Prepared by: Jackson Engel
+Meeting Date: 11/5/2021
+Meeting Attendees
+ Jackson Engel
+ Esha Adhawade
+ Alex Torres
+ Matthew Tran
+ Ethan McKinney
+Meeting Agenda Items
+Front End Design and Implementation
+Back End Implementation
+API Connection
+Status Update Since Last Meeting
+N/A, no last meeting
+Before The Next Meeting
+Plans:
+ Start working on the front end design: like the nav bar
+Start working on the back end components, income tax calculator
+
+Task Assignments:
+Task Description
+Assigned to
+Start the design of the front end to create a prototype for next week
+Esha / Alex
+Create the income tax calculator component
+Jackson / Ethan 
+Learn React/Node JS
+Alex / Matthew / Ethan
+
+Minutes from Previous Meeting
+Because there was not a previous meeting, there is nothing to summarize discussion.
+
+
+
+SCRUM Meeting 2 for BudgIt
+Prepared by: Jackson Engel
+Meeting Date: 11/6/2021
+Meeting Attendees
+ Jackson Engel
+ Esha Adhawade
+ Alex Torres
+ Matthew Tran
+ Ethan McKinney
+Meeting Agenda Items
+Update status on the front-end
+Update status on the income tax calculator
+Discuss putting login system + database on hold
+Status Update Since Last Meeting
+Accomplishments:
+Created the navbar, information on pages did not appear
+Switched from fetch (JS api call function) to axios since it is easier to make calls
+Had trouble with getting the fetch to work
+
+Tasks Completed:
+Task Description
+Assigned to
+Completed? (yes/no)
+Created the navbar
+Esha
+yes
+Creating Pages 
+Esha 
+yes
+Adding Information to pages 
+Esha / Alex
+no
+Create the income tax calculator component
+Jackson
+no
+Learn React/Node JS
+Alex / Mathew / Ethan
+yes
+
+Before The Next Meeting
+Plans:
+ Completing page routing and information properly 
+Completing computation for income tax
+
+Task Assignments:
+Task Description
+Assigned to
+Income Tax Calculator
+Jackson 
+Adding Information to pages 
+Esha / Alex
+Brainstorming for upcoming sprints 
+Ethan / Matthew
+
+Minutes from Previous Meeting
+Through a Zoom meeting we met briefly for 10 minutes. We started off by discussing how much the team members who were new to react had learned throughout the week and if they believed they would be able to help but the finishing touches on the prototype. They said they’d be ready and we moved on to the status of our two main components. For the front end, there were some difficulties setting up the navbar but things had been progressing smoothly. On the backend we had been able to interact with the api but had yet to put it into a component. 
+
+
+SCRUM Meeting 3 for BudgIt
+Prepared by: Jackson Engel
+Meeting Date: 11/7/2021
+Meeting Attendees
+Jackson Engel
+Esha Adhawade
+Alex Torres
+Matthew Tran
+Ethan McKinney
+
+Meeting Agenda Items
+Finishing up first prototype 
+Combining Income tax calculator with front end
+Status Update Since Last Meeting
+Accomplishments:
+The navbar is able to switch between pages
+The income tax calculator works correctly
+
+Tasks Completed:
+Task Description
+Assigned to
+Completed? (yes/no)
+Income Tax calculator 
+Jackson
+yes
+Switch between pages 
+Esha
+yes
+Combining the components 
+Group
+yes
+Adding Information to pages 
+Esha / Alex 
+no
+
+Before The Next Meeting
+Plans:
+Figure out what to work on for next sprint
+
+Task Assignments:
+Task Description
+Assigned to
+Draft page information
+Alex / Matthew 
+Start on property tax calculator
+Jackson / Ethan
+Start on profile tab
+Esha
+
+Minutes from Previous Meeting
+We met for 5 minutes in a Zoom meeting, to briefly discuss the prototype progress. We still had some problems with the navbar and the pages displaying so we considered changing the version of one of our react libraries. Similarly our tax calculator was set up in theory but there were some problems with the fetch. Jackson recommended Axios instead.
